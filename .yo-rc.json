@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "hackathonBlog",
+    "style": "css",
+    "postcss": true,
+    "generatedWithVersion": 3
+  }
+}
