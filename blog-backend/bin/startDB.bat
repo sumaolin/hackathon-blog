@@ -1,0 +1,1 @@
+mongod --dbpath=F:\Users\DB\hackathon-blog\data --logpath=F:\Users\DB\hackathon-blog\log\log.txt
